@@ -4,3 +4,4 @@ It is the task for Week#1 to create a repository according to the requirements, 
 https://Xeniya-Plakhotnyuk.github.io/rsschool-cv/cv
 
 https://Xeniya-Plakhotnyuk.github.io/rsschool-cv/
+
